@@ -4,12 +4,6 @@ Modern security vulnerability scanner with beautiful dark-themed web interface.
 
 ## 🚀 Quick Start
 
-### **Web Interface (Recommended)**
-```bash
-python start_web.bat
-# Open: http://localhost:5000
-```
-
 ### **Desktop App**
 ```bash
 python start_app.bat
