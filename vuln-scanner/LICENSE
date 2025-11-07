@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2024 VulnScanner Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER:
+
+This tool is designed for educational purposes and authorized security testing
+only. Users are solely responsible for:
+
+1. Obtaining proper authorization before scanning any systems
+2. Complying with all applicable laws and regulations
+3. Respecting the terms of service of third-party APIs
+4. Not using the tool for malicious purposes
+
+The authors and contributors of this software:
+- Do not endorse or encourage unauthorized scanning or hacking
+- Are not responsible for any misuse of this tool
+- Are not liable for any damages caused by the use of this software
+
+By using this tool, you agree to use it only for legitimate security research
+and testing on systems you own or have explicit permission to test.
+
+ALWAYS:
+- Get written permission before scanning
+- Respect rate limits and quotas
+- Follow responsible disclosure practices
+- Comply with local laws and regulations

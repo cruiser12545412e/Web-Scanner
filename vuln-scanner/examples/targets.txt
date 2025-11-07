@@ -1,0 +1,13 @@
+# Example targets file
+# Lines starting with # are ignored
+# One target per line
+
+# Safe scanning targets (explicitly allowed)
+scanme.nmap.org
+example.com
+testphp.vulnweb.com
+
+# Add your own targets here (with proper authorization)
+# target1.com
+# target2.com
+# 192.168.1.1
